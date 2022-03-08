@@ -12,4 +12,4 @@ https://sulhanf.github.io/try_webdeploygit/
 
 
 Wooo
-<p style : "color:blue; font-family:Lucida Grande">It's wonderfull </p>
+<p style = "color:blue; font-family:Lucida Grande;">It's wonderfull </p>
