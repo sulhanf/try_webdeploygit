@@ -11,5 +11,5 @@ I've done it and you can visit the web at
 https://sulhanf.github.io/try_webdeploygit/
 
 
-WOoo
-It's wonderfull
+Wooo
+<p styel : "color:blue; font-family:Lucida Grande">It's wonderfull </p>
